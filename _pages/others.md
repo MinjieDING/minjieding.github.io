@@ -3,8 +3,8 @@ permalink: /others/
 title: "Others"
 author_profile: true
 redirect_from: 
-  - /others/
-  - /others.html
+  - /o/
+  - /o.html
 ---
 
 ## Locations of key files/directories
