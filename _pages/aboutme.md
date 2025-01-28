@@ -7,9 +7,8 @@ redirect_from:
   - /aboutme.html
 ---
 
-## Locations of key files/directories
 
-* I am a PhD student in Economics
+I am a PhD student in Economics
 
 
 
