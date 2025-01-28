@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Minjie"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
