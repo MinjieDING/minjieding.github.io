@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "tutorial"
-permalink: /cv/
+permalink: /tutorial/
 author_profile: true
 redirect_from:
-  - /Tutorial
+  - /tutorial
 ---
 
 
